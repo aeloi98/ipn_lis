@@ -1,0 +1,21 @@
+
+
+1 - Casos de teste testados e aprovados
+
+
+str                 || Output Esperado                || Output Obtido
+
+hello*3                Ifmmp*3                           Ifmmp*3
+fun times!             gvO Ujnft!                        gvO Ujnft!
+a12                    b12                               b12
+27d                    27E                               27E
+1998 aAZzDd1998 3h     1998 bBAAEE1998 3I                1998 bBAAEE1998 3I
+
+
+2 - Casos de teste testados e falhados
+
+NENHUM!
+
+
+
+

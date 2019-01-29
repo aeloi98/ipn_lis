@@ -1,0 +1,28 @@
+
+
+1 - Casos de teste testados e aprovados
+
+
+Manualmente com recurso a calculadora
+
+Max     || Output Esperado      || Output Obtido
+
+15         45                      45
+22         114                     114
+30         195                     195
+35         258                     258
+43         450                     450
+
+
+Comparação com o resultado em 0(n) que entreguei inicialmente
+
+Todos os números até max = 500000
+
+2 - Casos de teste testados e falhados
+
+NENHUM!
+
+
+Nota: Como utilizei somatórios, tenho 100% confiança que o código produzido está correto.
+
+
