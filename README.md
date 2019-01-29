@@ -1,19 +1,23 @@
-# Enunciado do Problema
+# Some programming problems 
+## More info in wiki
 
-## Pergunta 1:
-Se listarmos todos os números naturais abaixo de 10, que são múltiplos de 3 ou de 5, obtemos 3, 5, 6 e 9. A soma destes múltiplos é 23.
-Implementa a função Multiplo3_5(max), que retorna a soma de todos os múltiplos de 3 ou 5 abaixo de max.
 
-## Pergunta 2:
-Utilizando uma linguagem de programação, implementa a função MudaLetras(str) que recebe como parâmetro a variável str e que tem o seguinte algoritmo:
 
-1 - Substitui todas as letras na string str com a letra seguinte do alfabeto (por exemplo “c” transforma-se em “d”, “z” transforma-se em “a”). 
 
-2 - Substitui todas as vogais presentes na nova string (“a”, “e”, “i”, “o”, “u”) por maiúsculas, e finalmente retorna a nova string modificada.
+## Problem #1
 
-Exemplos de Casos de Teste:
-Input:"hello*3"
-Output:"Ifmmp*3"
+If we list all the natural numbers below 10 that are multiple of 3 and 5 simultaneously we get 3,5,6 and 9. The value of their sum is 23. Implement a method called Multiplo3_5(max), that returns the sum of all the multiples of 3 and 5 simultaneously that are above a given max number.
 
-Input:"fun times!"
-Output:"gvO Ujnft!" 
+### How to run the python script
+$ python3 Multiplo3_5.py max
+
+## Problem #2
+
+Using any programming language, implement a method called MudaLetras(str) that gets as parameter a string with this algorithm:
+
+1. Change all the letters in the string str with the next letter of alfabet (for instance "c" transforms into "d" but "z" transforms into "a").).
+
+2. Change all the vowels in the new string ("a,"e","i","o","u") for uppercase and lastly returns the new modified string.
+
+### How to run the python script
+$ python3 MudaLetras.py str
